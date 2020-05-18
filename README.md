@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-(Raspberry_Pi_CNC_HAT.md)
+[RPI CNC HAT](Raspberry_Pi_CNC_HAT.md)
 
 You can use the [editor on GitHub](https://github.com/Protoneer/protoneer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
