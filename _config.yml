@@ -1,14 +1,2 @@
 theme: jekyll-theme-minimal
 title: [Protoneer]
-
-docs_list_title: ACME Documentation
-docs:
-
-- title: Introduction
-  url: Raspberry_Pi_CNC_HAT.md
-
-- title: Configuration
-  url: Raspberry_Pi_CNC_HAT.md
-
-- title: Deployment
-  url: Raspberry_Pi_CNC_HAT.md
